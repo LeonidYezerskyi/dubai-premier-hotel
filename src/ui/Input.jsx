@@ -1,9 +1,10 @@
 import styled from "styled-components";
 
 const Input = styled.input`
-border: 1px solid black;
+border: 1px solid var(--color-grey-400);
 border-radius: 5px;
 padding: 10px 20px;
+background-color: var(--color-grey-0);
 `
 export default Input;
 
