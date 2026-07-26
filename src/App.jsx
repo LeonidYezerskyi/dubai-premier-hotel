@@ -65,7 +65,7 @@ const App = () => {
             fontSize: '16px',
             width: "500px",
             padding: '16px 24px',
-            backgoundColor: "var(--color-grey-0)",
+            backgroundColor: "var(--color-grey-0)",
             color: "var(--color-grey-700)"
           }
         }} />
