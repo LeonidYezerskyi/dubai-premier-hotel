@@ -49,15 +49,10 @@ The system uses a layered architecture where the frontend interacts with Supabas
 
 ## Documentation
 
-For detailed architecture, data flow diagrams, and module descriptions, see the [Overview](https://github.com/LeonidYezerskyi/dubai-premier-hotel/wiki/Overview) wiki page.
+For detailed architecture, data flow diagrams, and module descriptions, see the [![Overview](https://deepwiki.com/badge.svg)](https://deepwiki.com/LeonidYezerskyi/dubai-premier-hotel#1) wiki page.
 
 ---
 
 ## Notes
 
 The project is configured with `staleTime: 0` in React Query to ensure fresh data from Supabase.
-
-Wiki pages you might want to explore:
-
-- [Overview (LeonidYezerskyi/dubai-premier-hotel)](/wiki/LeonidYezerskyi/dubai-premier-hotel#1)
-- [Glossary (LeonidYezerskyi/dubai-premier-hotel)](/wiki/LeonidYezerskyi/dubai-premier-hotel#11)
