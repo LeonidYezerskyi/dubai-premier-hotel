@@ -6,6 +6,9 @@ The Dubai Premier Hotel management system is a professional internal dashboard d
 
 This is a modern Single Page Application (SPA) that provides real-time data synchronization and a seamless user experience for administrative tasks. The system serves as a centralized hub for hotel operations.
 
+> **Demo Access:**
+> To try the app, log in with email `test@gmail.com` and password `11111111`.
+
 ## Application Structure
 
 Main pages and components:
