@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 import Row from "../../ui/Row";
 import Tag from "../../ui/Tag";
+import Empty from "../../ui/Empty";
 import Modal from "../../ui/Modal";
 import Button from "../../ui/Button";
 import Heading from "../../ui/Heading";
@@ -34,6 +35,7 @@ function BookingDetail() {
   const moveBack = useMoveBack();
 
   if (isLoading) return <Spinner />
+  if (!booking) return <Empty resourceName="booking" />
 
   const { status, id: bookingId } = booking;
 
